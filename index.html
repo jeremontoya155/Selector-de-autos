@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selector de Autos</title>
+    <style>
+        select {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<!-- Selector de Marcas -->
+<label for="marcaSelect">Selecciona una marca:</label>
+<select id="marcaSelect" onchange="cargarModelos()">
+    <option value="">-- Selecciona una marca --</option>
+</select>
+
+<!-- Selector de Modelos -->
+<label for="modeloSelect">Selecciona un modelo:</label>
+<select id="modeloSelect">
+    <option value="">-- Selecciona un modelo --</option>
+</select>
+
+<script>
+    // Cargar datos desde el archivo JSON (puedes cargarlo desde un servidor en la realidad)
+    const url = 'BaseAutos.json';
+
+    // Obtener referencia a los elementos del DOM
+    const marcaSelect = document.getElementById('marcaSelect');
+    const modeloSelect = document.getElementById('modeloSelect');
+
+    // Función para cargar las marcas en el primer selector
+    function cargarMarcas() {
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                data.forEach(marca => {
+                    const option = document.createElement('option');
+                    option.value = marca.id;
+                    option.text = marca.name;
+                    marcaSelect.appendChild(option);
+                });
+            })
+            .catch(error => console.error('Error al cargar las marcas:', error));
+    }
+
+    // Función para cargar los modelos en el segundo selector
+    function cargarModelos() {
+        // Limpiar el selector de modelos
+        modeloSelect.innerHTML = '<option value="">-- Selecciona un modelo --</option>';
+
+        // Obtener el ID de la marca seleccionada
+        const marcaId = marcaSelect.value;
+
+        // Obtener los modelos de la marca seleccionada
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                const marca = data.find(m => m.id == marcaId);
+                if (marca && marca.groups) {
+                    marca.groups.forEach(modelo => {
+                        const option = document.createElement('option');
+                        option.value = modelo.name; // Corregir aquí
+                        option.text = modelo.name;
+                        modeloSelect.appendChild(option);
+                    });
+                }
+            })
+            .catch(error => console.error('Error al cargar los modelos:', error));
+    }
+
+    // Cargar las marcas al cargar la página
+    cargarMarcas();
+</script>
+
+</body>
+</html>
