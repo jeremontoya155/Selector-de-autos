@@ -8,33 +8,31 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px auto; /* Centro el contenido y agrego margen a los lados */
-            max-width: 600px; /* Limito el ancho del contenido para mejorar la legibilidad */
-            background-color: rgba(255, 255, 0, 0.1); /* Fondo amarillo bastante transparente */
-            padding: 20px; /* Añado espacio interno para mejorar la apariencia */
+            margin: 20px auto;
+            max-width: 600px;
+            background-color: rgba(255, 255, 0, 0.1);
+            padding: 20px;
         }
     
         h1 {
-            text-align: center; /* Centrar el título */
-            font-size: 4em; /* Aumento el tamaño del título */
-            margin-bottom: 20px; /* Agrego espacio inferior al título */
+            text-align: center;
+            font-size: 4em;
+            margin-bottom: 20px;
         }
     
         label {
-            display: block; /* Hago que los labels sean bloques para que estén en líneas separadas */
-            font-size: 16px; /* Aumento el tamaño de los labels */
-            margin-bottom: 5px; /* Agrego espacio inferior a los labels */
+            display: block;
+            font-size: 16px;
+            margin-bottom: 5px;
         }
     
         select {
-            margin-bottom: 10px; /* Reduzco el espacio inferior de los selectores */
-            padding: 8px; /* Reduzco el tamaño de las opciones de los selectores */
-            width: 100%; /* Ancho completo */
-            box-sizing: border-box; /* Incluyo el padding en el ancho total */
+            margin-bottom: 10px;
+            padding: 8px;
+            width: 100%;
+            box-sizing: border-box;
         }
     </style>
-    
-   
 </head>
 <body>
 
@@ -61,7 +59,7 @@
 </select>
 
 <script>
-    let data; // Declarar la variable en el ámbito global
+    let data;
 
     async function loadData() {
         try {
@@ -78,10 +76,14 @@
         const marcaSelect = document.getElementById("marcaSelect");
 
         data.forEach(marca => {
-            const option = document.createElement("option");
-            option.value = marca.id_marca;
-            option.text = marca.name_marca;
-            marcaSelect.add(option);
+            const modelosConPrecio = marca.groups.some(modelo => modelo.precio_y_anio.length > 0);
+
+            if (modelosConPrecio) {
+                const option = document.createElement("option");
+                option.value = marca.id_marca;
+                option.text = marca.name_marca;
+                marcaSelect.add(option);
+            }
         });
     }
 
@@ -159,7 +161,6 @@
         }
     }
 
-    // Llamada a la función de inicialización
     initializeSelectors();
 
 </script>
