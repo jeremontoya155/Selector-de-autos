@@ -1,0 +1,195 @@
+[
+  {
+    "id_marca": 1,
+    "name_marca": "ACURA",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "NSX",
+        "codia": 10008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "LEGEND",
+        "codia": 10005,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "INTEGRA",
+        "codia": 10001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 21,
+    "name_marca": "AEOLUS",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "EQ",
+        "codia": 210002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 63,
+    "name_marca": "AGRALE",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "AGRALE",
+        "codia": 630034,
+        "precio_y_anio": [
+          {
+            "price": 21400,
+            "year": 2016
+          },
+          {
+            "price": 22000,
+            "year": 2017
+          },
+          {
+            "price": 22700,
+            "year": 2018
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 2,
+    "name_marca": "ALEKO",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "2335",
+        "codia": 20004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "2141",
+        "codia": 20005,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 3,
+    "name_marca": "ALFA ROMEO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "145",
+        "codia": 30028,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 4,
+    "name_marca": "ARO",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "10.6",
+        "codia": 40010,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "10.9",
+        "codia": 40016,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "243",
+        "codia": 40003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "10.4",
+        "codia": 40002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "10.1",
+        "codia": 40001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 5,
+    "name_marca": "ASIA",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "TOPIC",
+        "codia": 50003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "ROCSTA",
+        "codia": 50008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "AM",
+        "codia": 50010,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 71,
+    "name_marca": "ASIA CAMION",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "AM",
+        "codia": 710001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 6,
+    "name_marca": "AUDI",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "200",
+        "codia": 60024,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "5000",
+        "codia": 60067,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "80",
+        "codia": 60001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "100",
+        "codia": 60012,
+        "precio_y_anio": []
+      }
+    ]
+  }
+]

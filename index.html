@@ -4,76 +4,164 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Selector de Autos</title>
+
     <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px auto; /* Centro el contenido y agrego margen a los lados */
+            max-width: 600px; /* Limito el ancho del contenido para mejorar la legibilidad */
+            background-color: rgba(255, 255, 0, 0.1); /* Fondo amarillo bastante transparente */
+            padding: 20px; /* Añado espacio interno para mejorar la apariencia */
+        }
+    
+        h1 {
+            text-align: center; /* Centrar el título */
+            font-size: 4em; /* Aumento el tamaño del título */
+            margin-bottom: 20px; /* Agrego espacio inferior al título */
+        }
+    
+        label {
+            display: block; /* Hago que los labels sean bloques para que estén en líneas separadas */
+            font-size: 16px; /* Aumento el tamaño de los labels */
+            margin-bottom: 5px; /* Agrego espacio inferior a los labels */
+        }
+    
         select {
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* Reduzco el espacio inferior de los selectores */
+            padding: 8px; /* Reduzco el tamaño de las opciones de los selectores */
+            width: 100%; /* Ancho completo */
+            box-sizing: border-box; /* Incluyo el padding en el ancho total */
         }
     </style>
+    
+   
 </head>
 <body>
 
-<!-- Selector de Marcas -->
-<label for="marcaSelect">Selecciona una marca:</label>
-<select id="marcaSelect" onchange="cargarModelos()">
-    <option value="">-- Selecciona una marca --</option>
+<h1>Selector de Autos</h1>
+
+<label for="marcaSelect">Marca:</label>
+<select id="marcaSelect" onchange="updateModelos()">
+    <option value="" disabled selected>Selecciona una marca</option>
 </select>
 
-<!-- Selector de Modelos -->
-<label for="modeloSelect">Selecciona un modelo:</label>
-<select id="modeloSelect">
-    <option value="">-- Selecciona un modelo --</option>
+<label for="modeloSelect">Modelo:</label>
+<select id="modeloSelect" onchange="updateAnios()">
+    <option value="" disabled selected>Selecciona un modelo</option>
+</select>
+
+<label for="anioSelect">Año:</label>
+<select id="anioSelect" onchange="updatePrecios()">
+    <option value="" disabled selected>Selecciona un año</option>
+</select>
+
+<label for="precioSelect">Precio:</label>
+<select id="precioSelect">
+    <option value="" disabled selected>Selecciona un precio</option>
 </select>
 
 <script>
-    // Cargar datos desde el archivo JSON (puedes cargarlo desde un servidor en la realidad)
-    const url = 'BaseAutos.json';
+    let data; // Declarar la variable en el ámbito global
 
-    // Obtener referencia a los elementos del DOM
-    const marcaSelect = document.getElementById('marcaSelect');
-    const modeloSelect = document.getElementById('modeloSelect');
+    async function loadData() {
+        try {
+            const response = await fetch('bases.json');
+            data = await response.json();
+        } catch (error) {
+            console.error('Error al cargar los datos:', error);
+        }
+    }
 
-    // Función para cargar las marcas en el primer selector
-    function cargarMarcas() {
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                data.forEach(marca => {
-                    const option = document.createElement('option');
-                    option.value = marca.id;
-                    option.text = marca.name;
-                    marcaSelect.appendChild(option);
+    async function initializeSelectors() {
+        await loadData();
+
+        const marcaSelect = document.getElementById("marcaSelect");
+
+        data.forEach(marca => {
+            const option = document.createElement("option");
+            option.value = marca.id_marca;
+            option.text = marca.name_marca;
+            marcaSelect.add(option);
+        });
+    }
+
+    function updateModelos() {
+        const modeloSelect = document.getElementById("modeloSelect");
+        const anioSelect = document.getElementById("anioSelect");
+        const precioSelect = document.getElementById("precioSelect");
+
+        modeloSelect.innerHTML = "<option value='' disabled selected>Selecciona un modelo</option>";
+        const selectedMarca = marcaSelect.value;
+        const selectedMarcaData = data.find(marca => marca.id_marca == selectedMarca);
+
+        if (selectedMarcaData) {
+            selectedMarcaData.groups.forEach(modelo => {
+                const option = document.createElement("option");
+                option.value = modelo.id_modelo;
+                option.text = modelo.name_modelo;
+                modeloSelect.add(option);
+            });
+        }
+
+        anioSelect.innerHTML = "<option value='' disabled selected>Selecciona un año</option>";
+        precioSelect.innerHTML = "<option value='' disabled selected>Selecciona un precio</option>";
+    }
+
+    function updateAnios() {
+        const anioSelect = document.getElementById("anioSelect");
+        const precioSelect = document.getElementById("precioSelect");
+
+        anioSelect.innerHTML = "<option value='' disabled selected>Selecciona un año</option>";
+        precioSelect.innerHTML = "<option value='' disabled selected>Selecciona un precio</option>";
+
+        const selectedMarca = marcaSelect.value;
+        const selectedModelo = document.getElementById("modeloSelect").value;
+        const selectedMarcaData = data.find(marca => marca.id_marca == selectedMarca);
+
+        if (selectedMarcaData) {
+            const selectedModeloData = selectedMarcaData.groups.find(modelo => modelo.id_modelo == selectedModelo);
+
+            if (selectedModeloData) {
+                selectedModeloData.precio_y_anio.forEach(item => {
+                    const option = document.createElement("option");
+                    option.value = item.year;
+                    option.text = item.year;
+                    anioSelect.add(option);
                 });
-            })
-            .catch(error => console.error('Error al cargar las marcas:', error));
+            }
+        }
     }
 
-    // Función para cargar los modelos en el segundo selector
-    function cargarModelos() {
-        // Limpiar el selector de modelos
-        modeloSelect.innerHTML = '<option value="">-- Selecciona un modelo --</option>';
+    function updatePrecios() {
+        const precioSelect = document.getElementById("precioSelect");
 
-        // Obtener el ID de la marca seleccionada
-        const marcaId = marcaSelect.value;
+        precioSelect.innerHTML = "<option value='' disabled selected>Selecciona un precio</option>";
 
-        // Obtener los modelos de la marca seleccionada
-        fetch(url)
-            .then(response => response.json())
-            .then(data => {
-                const marca = data.find(m => m.id == marcaId);
-                if (marca && marca.groups) {
-                    marca.groups.forEach(modelo => {
-                        const option = document.createElement('option');
-                        option.value = modelo.name; // Corregir aquí
-                        option.text = modelo.name;
-                        modeloSelect.appendChild(option);
-                    });
+        const selectedMarca = marcaSelect.value;
+        const selectedModelo = document.getElementById("modeloSelect").value;
+        const selectedAnio = document.getElementById("anioSelect").value;
+
+        const selectedMarcaData = data.find(marca => marca.id_marca == selectedMarca);
+
+        if (selectedMarcaData) {
+            const selectedModeloData = selectedMarcaData.groups.find(modelo => modelo.id_modelo == selectedModelo);
+
+            if (selectedModeloData) {
+                const selectedAnioData = selectedModeloData.precio_y_anio.find(item => item.year == selectedAnio);
+
+                if (selectedAnioData) {
+                    const option = document.createElement("option");
+                    option.value = selectedAnioData.price;
+                    option.text = `$${selectedAnioData.price}`;
+                    precioSelect.add(option);
                 }
-            })
-            .catch(error => console.error('Error al cargar los modelos:', error));
+            }
+        }
     }
 
-    // Cargar las marcas al cargar la página
-    cargarMarcas();
+    // Llamada a la función de inicialización
+    initializeSelectors();
+
 </script>
 
 </body>
