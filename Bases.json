@@ -191,5 +191,4587 @@
         "precio_y_anio": []
       }
     ]
+  },
+  {
+    "id_marca": 60,
+    "name_marca": "AUSTIN",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "ALLEGRO",
+        "codia": 600003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "MONTEGO",
+        "codia": 600001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "MORRIS",
+        "codia": 600002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "SHERPA",
+        "codia": 600004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 7,
+    "name_marca": "AUTOBIANCHI",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "Y 10",
+        "codia": 70002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 118,
+    "name_marca": "BAIC",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "BJ40",
+        "codia": 1180011,
+        "precio_y_anio": [
+          {
+            "price": 23700,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "D 20",
+        "codia": 1180006,
+        "precio_y_anio": [
+          {
+            "price": 10500,
+            "year": 2019
+          },
+          {
+            "price": 10900,
+            "year": 2020
+          },
+          {
+            "price": 11300,
+            "year": 2021
+          },
+          {
+            "price": 11800,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "X 25",
+        "codia": 1180004,
+        "precio_y_anio": [
+          {
+            "price": 12900,
+            "year": 2018
+          },
+          {
+            "price": 13400,
+            "year": 2019
+          },
+          {
+            "price": 13900,
+            "year": 2020
+          },
+          {
+            "price": 14400,
+            "year": 2021
+          },
+          {
+            "price": 15000,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "X 35",
+        "codia": 1180002,
+        "precio_y_anio": [
+          {
+            "price": 15000,
+            "year": 2018
+          },
+          {
+            "price": 15600,
+            "year": 2019
+          },
+          {
+            "price": 16300,
+            "year": 2020
+          },
+          {
+            "price": 17000,
+            "year": 2021
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "X 55",
+        "codia": 1180001,
+        "precio_y_anio": [
+          {
+            "price": 20800,
+            "year": 2018
+          },
+          {
+            "price": 21600,
+            "year": 2019
+          },
+          {
+            "price": 22400,
+            "year": 2020
+          },
+          {
+            "price": 23200,
+            "year": 2021
+          },
+          {
+            "price": 24200,
+            "year": 2022
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 78,
+    "name_marca": "BELAVTOMAZ",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "BTM",
+        "codia": 780004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 61,
+    "name_marca": "BERTONE",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "FREECLEMBER",
+        "codia": 610001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 58,
+    "name_marca": "BLAC",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "BJ",
+        "codia": 580001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 8,
+    "name_marca": "BMW",
+    "groups": [
+      {
+        "id_modelo": 39,
+        "name_modelo": "116",
+        "codia": 80241,
+        "precio_y_anio": [
+          {
+            "price": 12000,
+            "year": 2010
+          },
+          {
+            "price": 12500,
+            "year": 2011
+          },
+          {
+            "price": 13000,
+            "year": 2012
+          }
+        ]
+      },
+      {
+        "id_modelo": 49,
+        "name_modelo": "118",
+        "codia": 80258,
+        "precio_y_anio": [
+          {
+            "price": 14350,
+            "year": 2010
+          },
+          {
+            "price": 15050,
+            "year": 2011
+          },
+          {
+            "price": 15850,
+            "year": 2012
+          },
+          {
+            "price": 16650,
+            "year": 2013
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 9,
+    "name_marca": "BUIK",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "CENTURY",
+        "codia": 90001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "LE SABRE",
+        "codia": 90003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "SKYLARK",
+        "codia": 90002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 10,
+    "name_marca": "CADILLAC",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "DEVILLE",
+        "codia": 100002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "EL DORADO",
+        "codia": 100003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "SEVILLE",
+        "codia": 100004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 124,
+    "name_marca": "CHANGAN",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "CS 15",
+        "codia": 1240001,
+        "precio_y_anio": [
+          {
+            "price": 12500,
+            "year": 2019
+          },
+          {
+            "price": 12900,
+            "year": 2020
+          },
+          {
+            "price": 13300,
+            "year": 2021
+          },
+          {
+            "price": 13700,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CS 75",
+        "codia": 1240004,
+        "precio_y_anio": [
+          {
+            "price": 15300,
+            "year": 2019
+          },
+          {
+            "price": 15900,
+            "year": 2020
+          },
+          {
+            "price": 16500,
+            "year": 2021
+          },
+          {
+            "price": 17100,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "MD 201",
+        "codia": 1240006,
+        "precio_y_anio": [
+          {
+            "price": 13300,
+            "year": 2019
+          },
+          {
+            "price": 13700,
+            "year": 2020
+          },
+          {
+            "price": 14100,
+            "year": 2021
+          },
+          {
+            "price": 14600,
+            "year": 2022
+          },
+          {
+            "price": 15200,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 108,
+    "name_marca": "CHERY",
+    "groups": [
+      {
+        "id_modelo": 7,
+        "name_modelo": "ARRIZO",
+        "codia": 1080028,
+        "precio_y_anio": [
+          {
+            "price": 8700,
+            "year": 2018
+          },
+          {
+            "price": 8900,
+            "year": 2019
+          },
+          {
+            "price": 9100,
+            "year": 2020
+          },
+          {
+            "price": 9400,
+            "year": 2021
+          },
+          {
+            "price": 9700,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "FACE",
+        "codia": 1080002,
+        "precio_y_anio": [
+          {
+            "price": 4200,
+            "year": 2010
+          },
+          {
+            "price": 4300,
+            "year": 2011
+          },
+          {
+            "price": 4400,
+            "year": 2012
+          },
+          {
+            "price": 4500,
+            "year": 2013
+          },
+          {
+            "price": 4600,
+            "year": 2014
+          },
+          {
+            "price": 4700,
+            "year": 2015
+          }
+        ]
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "FULWIN",
+        "codia": 1080011,
+        "precio_y_anio": [
+          {
+            "price": 5300,
+            "year": 2013
+          },
+          {
+            "price": 5400,
+            "year": 2014
+          },
+          {
+            "price": 5500,
+            "year": 2015
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "QQ",
+        "codia": 1080018,
+        "precio_y_anio": [
+          {
+            "price": 6100,
+            "year": 2016
+          },
+          {
+            "price": 6200,
+            "year": 2017
+          },
+          {
+            "price": 6300,
+            "year": 2018
+          },
+          {
+            "price": 6400,
+            "year": 2019
+          },
+          {
+            "price": 6600,
+            "year": 2020
+          },
+          {
+            "price": 6800,
+            "year": 2021
+          },
+          {
+            "price": 7000,
+            "year": 2022
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 12,
+    "name_marca": "CHEVROLET",
+    "groups": [
+      {
+        "id_modelo": 25,
+        "name_modelo": "230",
+        "codia": 120123,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "400",
+        "codia": 120140,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 43,
+        "name_modelo": "51 DELUXE",
+        "codia": 120248,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 56,
+        "name_modelo": "AGILE",
+        "codia": 120360,
+        "precio_y_anio": [
+          {
+            "price": 5900,
+            "year": 2009
+          },
+          {
+            "price": 5950,
+            "year": 2010
+          },
+          {
+            "price": 6000,
+            "year": 2011
+          },
+          {
+            "price": 6050,
+            "year": 2012
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 72,
+    "name_marca": "CHEVROLET CAM.",
+    "groups": [
+      {
+        "id_modelo": 5,
+        "name_modelo": "15-190",
+        "codia": 720006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "16-220",
+        "codia": 720008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "714",
+        "codia": 720009,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 10,
+        "name_modelo": "C 50",
+        "codia": 720011,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "G-",
+        "codia": 720005,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "KODIAK",
+        "codia": 720003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "NKR",
+        "codia": 720007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "14000",
+        "codia": 720002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 8,
+        "name_modelo": "6000",
+        "codia": 720001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 13,
+    "name_marca": "CHRYSLER",
+    "groups": [
+      {
+        "id_modelo": 24,
+        "name_modelo": "300",
+        "codia": 130060,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CARAVAN",
+        "codia": 130002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 11,
+    "name_marca": "CITROEN",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "2CV - 3CV",
+        "codia": 110042,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 129,
+    "name_marca": "CORADIR",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "TITA",
+        "codia": 1290002,
+        "precio_y_anio": [
+          {
+            "price": 11100,
+            "year": 2022
+          },
+          {
+            "price": 11400,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "TITO",
+        "codia": 1290013,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 14,
+    "name_marca": "DACIA",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "325",
+        "codia": 140006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "524",
+        "codia": 140010,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "BERLINA",
+        "codia": 140008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "BREAK",
+        "codia": 140009,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 8,
+        "name_modelo": "PICK UP",
+        "codia": 140011,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "1410",
+        "codia": 140003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "1310",
+        "codia": 140005,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 15,
+    "name_marca": "DAEWOO",
+    "groups": [
+      {
+        "id_modelo": 19,
+        "name_modelo": "ACTYON",
+        "codia": 150081,
+        "precio_y_anio": [
+          {
+            "price": 6450,
+            "year": 2010
+          },
+          {
+            "price": 6550,
+            "year": 2011
+          },
+          {
+            "price": 6750,
+            "year": 2012
+          },
+          {
+            "price": 6950,
+            "year": 2013
+          },
+          {
+            "price": 7150,
+            "year": 2014
+          },
+          {
+            "price": 7350,
+            "year": 2015
+          }
+        ]
+      },
+      {
+        "id_modelo": 15,
+        "name_modelo": "CHAIRMAN",
+        "codia": 150071,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CIELO",
+        "codia": 150060,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 16,
+    "name_marca": "DAIHATSU",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "CAB VAN",
+        "codia": 160014,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "CHARMANT",
+        "codia": 160017,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "CHARADE",
+        "codia": 160012,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "APPLAUSE",
+        "codia": 160002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 93,
+    "name_marca": "DAIHATSU CAMION",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "DELTA",
+        "codia": 930001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 112,
+    "name_marca": "DFM",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "DF",
+        "codia": 1120004,
+        "precio_y_anio": [
+          {
+            "price": 32122,
+            "year": 2019
+          },
+          {
+            "price": 33113,
+            "year": 2020
+          },
+          {
+            "price": 34140,
+            "year": 2021
+          },
+          {
+            "price": 35192,
+            "year": 2022
+          },
+          {
+            "price": 36250,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "DUOLICA",
+        "codia": 1120001,
+        "precio_y_anio": [
+          {
+            "price": 19362,
+            "year": 2010
+          },
+          {
+            "price": 19959,
+            "year": 2011
+          },
+          {
+            "price": 20574,
+            "year": 2012
+          },
+          {
+            "price": 21207,
+            "year": 2013
+          },
+          {
+            "price": 21867,
+            "year": 2014
+          },
+          {
+            "price": 22543,
+            "year": 2015
+          },
+          {
+            "price": 23238,
+            "year": 2016
+          },
+          {
+            "price": 23958,
+            "year": 2017
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "T 01",
+        "codia": 1120003,
+        "precio_y_anio": [
+          {
+            "price": 19731,
+            "year": 2014
+          },
+          {
+            "price": 20346,
+            "year": 2015
+          },
+          {
+            "price": 20974,
+            "year": 2016
+          },
+          {
+            "price": 21614,
+            "year": 2017
+          },
+          {
+            "price": 22290,
+            "year": 2018
+          },
+          {
+            "price": 22979,
+            "year": 2019
+          },
+          {
+            "price": 23688,
+            "year": 2020
+          },
+          {
+            "price": 24420,
+            "year": 2021
+          },
+          {
+            "price": 25176,
+            "year": 2022
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 119,
+    "name_marca": "DFSK",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "FURGON",
+        "codia": 1190002,
+        "precio_y_anio": [
+          {
+            "price": 12500,
+            "year": 2018
+          },
+          {
+            "price": 13000,
+            "year": 2019
+          },
+          {
+            "price": 13500,
+            "year": 2020
+          },
+          {
+            "price": 14100,
+            "year": 2021
+          },
+          {
+            "price": 14700,
+            "year": 2022
+          },
+          {
+            "price": 15300,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "PICK UP",
+        "codia": 1190001,
+        "precio_y_anio": [
+          {
+            "price": 11500,
+            "year": 2018
+          },
+          {
+            "price": 12000,
+            "year": 2019
+          },
+          {
+            "price": 12500,
+            "year": 2020
+          },
+          {
+            "price": 13100,
+            "year": 2021
+          },
+          {
+            "price": 13700,
+            "year": 2022
+          },
+          {
+            "price": 14300,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "TRUCK",
+        "codia": 1190004,
+        "precio_y_anio": [
+          {
+            "price": 11900,
+            "year": 2018
+          },
+          {
+            "price": 12400,
+            "year": 2019
+          },
+          {
+            "price": 12900,
+            "year": 2020
+          },
+          {
+            "price": 13500,
+            "year": 2021
+          },
+          {
+            "price": 14100,
+            "year": 2022
+          },
+          {
+            "price": 14700,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 89,
+    "name_marca": "DIMEX",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "CUMMINS",
+        "codia": 890001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 117,
+    "name_marca": "DS AUTOMOBILES",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "DS3",
+        "codia": 1170023,
+        "precio_y_anio": [
+          {
+            "price": 25000,
+            "year": 2019
+          },
+          {
+            "price": 26000,
+            "year": 2020
+          },
+          {
+            "price": 27000,
+            "year": 2021
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 54,
+    "name_marca": "ENIAK",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "ANTIQUE",
+        "codia": 540001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "DURANGO",
+        "codia": 540003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 69,
+    "name_marca": "F.E.R.E.S.A.",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "AV-120",
+        "codia": 690007,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 51,
+    "name_marca": "FERRARI",
+    "groups": [
+      {
+        "id_modelo": 18,
+        "name_modelo": "250",
+        "codia": 510033,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 23,
+        "name_modelo": "296",
+        "codia": 510041,
+        "precio_y_anio": [
+          {
+            "price": 868000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "308",
+        "codia": 510006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 13,
+        "name_modelo": "328",
+        "codia": 510028,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 16,
+        "name_modelo": "348",
+        "codia": 510031,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "355",
+        "codia": 510001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 17,
+    "name_marca": "FIAT",
+    "groups": [
+      {
+        "id_modelo": 36,
+        "name_modelo": "1100",
+        "codia": 170421,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "125",
+        "codia": 170090,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 18,
+    "name_marca": "FORD",
+    "groups": [
+      {
+        "id_modelo": 45,
+        "name_modelo": "BRONCO",
+        "codia": 180758,
+        "precio_y_anio": [
+          {
+            "price": 32500,
+            "year": 2021
+          },
+          {
+            "price": 34000,
+            "year": 2022
+          },
+          {
+            "price": 36000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "CAPRI",
+        "codia": 180103,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 52,
+        "name_modelo": "CONTOUR",
+        "codia": 180708,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 30,
+        "name_modelo": "CORCEL",
+        "codia": 180199,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 27,
+        "name_modelo": "COURIER",
+        "codia": 180172,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "AERO",
+        "codia": 180121,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 73,
+    "name_marca": "FORD CAMION",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "CARGO",
+        "codia": 730037,
+        "precio_y_anio": [
+          {
+            "price": 22887,
+            "year": 2007
+          },
+          {
+            "price": 23626,
+            "year": 2008
+          },
+          {
+            "price": 24364,
+            "year": 2009
+          },
+          {
+            "price": 25102,
+            "year": 2010
+          },
+          {
+            "price": 25841,
+            "year": 2011
+          },
+          {
+            "price": 26579,
+            "year": 2012
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 115,
+    "name_marca": "FOTON",
+    "groups": [
+      {
+        "id_modelo": 5,
+        "name_modelo": "AUMAN",
+        "codia": 1150023,
+        "precio_y_anio": [
+          {
+            "price": 52500,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "AUMARK",
+        "codia": 1150018,
+        "precio_y_anio": [
+          {
+            "price": 14500,
+            "year": 2020
+          },
+          {
+            "price": 15300,
+            "year": 2021
+          },
+          {
+            "price": 16100,
+            "year": 2022
+          },
+          {
+            "price": 17100,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 79,
+    "name_marca": "G.A.Z.",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "3309",
+        "codia": 790001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "GAZELLE",
+        "codia": 790005,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 116,
+    "name_marca": "GEELY",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "515",
+        "codia": 1160005,
+        "precio_y_anio": [
+          {
+            "price": 6429,
+            "year": 2017
+          },
+          {
+            "price": 6601,
+            "year": 2018
+          },
+          {
+            "price": 6756,
+            "year": 2019
+          }
+        ]
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "EMGRAND 7",
+        "codia": 1160009,
+        "precio_y_anio": [
+          {
+            "price": 8598,
+            "year": 2017
+          },
+          {
+            "price": 8847,
+            "year": 2018
+          },
+          {
+            "price": 9097,
+            "year": 2019
+          }
+        ]
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "EMGRAND WAGON",
+        "codia": 1160010,
+        "precio_y_anio": [
+          {
+            "price": 9340,
+            "year": 2017
+          },
+          {
+            "price": 9660,
+            "year": 2018
+          },
+          {
+            "price": 9993,
+            "year": 2019
+          },
+          {
+            "price": 10312,
+            "year": 2020
+          },
+          {
+            "price": 10799,
+            "year": 2021
+          },
+          {
+            "price": 11284,
+            "year": 2022
+          },
+          {
+            "price": 11938,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 121,
+    "name_marca": "GREAT WALL",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "POER",
+        "codia": 1210008,
+        "precio_y_anio": [
+          {
+            "price": 26500,
+            "year": 2022
+          },
+          {
+            "price": 27000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "WINGLE 5",
+        "codia": 1210003,
+        "precio_y_anio": [
+          {
+            "price": 15000,
+            "year": 2018
+          },
+          {
+            "price": 15500,
+            "year": 2019
+          },
+          {
+            "price": 16100,
+            "year": 2020
+          },
+          {
+            "price": 16700,
+            "year": 2021
+          },
+          {
+            "price": 17300,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "WINGLE 6",
+        "codia": 1210005,
+        "precio_y_anio": [
+          {
+            "price": 16300,
+            "year": 2018
+          },
+          {
+            "price": 16900,
+            "year": 2019
+          },
+          {
+            "price": 17500,
+            "year": 2020
+          },
+          {
+            "price": 18100,
+            "year": 2021
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "WINGLE 7",
+        "codia": 1210006,
+        "precio_y_anio": [
+          {
+            "price": 19800,
+            "year": 2021
+          },
+          {
+            "price": 20500,
+            "year": 2022
+          },
+          {
+            "price": 20800,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 64,
+    "name_marca": "GROSSPAL",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "GROSS",
+        "codia": 640001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "G",
+        "codia": 640005,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 52,
+    "name_marca": "HAM-JIANG",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "PICK-UP",
+        "codia": 520001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 122,
+    "name_marca": "HAVAL",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "H1",
+        "codia": 1220001,
+        "precio_y_anio": [
+          {
+            "price": 12800,
+            "year": 2018
+          },
+          {
+            "price": 13200,
+            "year": 2019
+          },
+          {
+            "price": 13700,
+            "year": 2020
+          },
+          {
+            "price": 14200,
+            "year": 2021
+          },
+          {
+            "price": 14700,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "H2",
+        "codia": 1220004,
+        "precio_y_anio": [
+          {
+            "price": 16400,
+            "year": 2018
+          },
+          {
+            "price": 17000,
+            "year": 2019
+          },
+          {
+            "price": 17700,
+            "year": 2020
+          },
+          {
+            "price": 18500,
+            "year": 2021
+          },
+          {
+            "price": 19300,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "H6",
+        "codia": 1220006,
+        "precio_y_anio": [
+          {
+            "price": 23200,
+            "year": 2018
+          },
+          {
+            "price": 23900,
+            "year": 2019
+          },
+          {
+            "price": 24700,
+            "year": 2020
+          },
+          {
+            "price": 25500,
+            "year": 2021
+          }
+        ]
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "JOLION",
+        "codia": 1220010,
+        "precio_y_anio": [
+          {
+            "price": 27000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 99,
+    "name_marca": "HEIBAO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "PICK UP",
+        "codia": 990001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 80,
+    "name_marca": "HINO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "FC",
+        "codia": 800001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "SERIE 300",
+        "codia": 800002,
+        "precio_y_anio": [
+          {
+            "price": 18629,
+            "year": 2016
+          },
+          {
+            "price": 19212,
+            "year": 2017
+          },
+          {
+            "price": 19800,
+            "year": 2018
+          },
+          {
+            "price": 20410,
+            "year": 2019
+          },
+          {
+            "price": 21042,
+            "year": 2020
+          },
+          {
+            "price": 21694,
+            "year": 2021
+          },
+          {
+            "price": 22363,
+            "year": 2022
+          },
+          {
+            "price": 23035,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "SERIE 500",
+        "codia": 800010,
+        "precio_y_anio": [
+          {
+            "price": 43191,
+            "year": 2020
+          },
+          {
+            "price": 44528,
+            "year": 2021
+          },
+          {
+            "price": 45903,
+            "year": 2022
+          },
+          {
+            "price": 47280,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 19,
+    "name_marca": "HONDA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "ACCORD",
+        "codia": 190035,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 49,
+    "name_marca": "HUMMER",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "H2",
+        "codia": 490002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "H3",
+        "codia": 490003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "TECHO DURO",
+        "codia": 490001,
+        "precio_y_anio": [
+          {
+            "price": 171000,
+            "year": 2005
+          },
+          {
+            "price": 172000,
+            "year": 2006
+          },
+          {
+            "price": 173000,
+            "year": 2007
+          },
+          {
+            "price": 174000,
+            "year": 2008
+          },
+          {
+            "price": 175000,
+            "year": 2009
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 20,
+    "name_marca": "HYUNDAI",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "ACCENT",
+        "codia": 200004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 59,
+    "name_marca": "I.K.A. RENAULT",
+    "groups": [
+      {
+        "id_modelo": 8,
+        "name_modelo": "BUGGY",
+        "codia": 590027,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "ESTANCIERA",
+        "codia": 590022,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "GLADIATOR",
+        "codia": 590001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "GORDINI",
+        "codia": 590003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "JEEP",
+        "codia": 590004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "KAISER",
+        "codia": 590026,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 87,
+    "name_marca": "INTERNATIONAL",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "2654",
+        "codia": 870012,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "4700",
+        "codia": 870008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "4900",
+        "codia": 870010,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 22,
+    "name_marca": "ISUZU",
+    "groups": [
+      {
+        "id_modelo": 9,
+        "name_modelo": "NKR",
+        "codia": 220074,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "NPR",
+        "codia": 220048,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "MINIBUS",
+        "codia": 220042,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 11,
+        "name_modelo": "FVR",
+        "codia": 220091,
+        "precio_y_anio": [
+          {
+            "price": 80000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "AMIGO",
+        "codia": 220060,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 41,
+    "name_marca": "IVECO",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "130",
+        "codia": 410020,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "150",
+        "codia": 410014,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "190",
+        "codia": 410021,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "619",
+        "codia": 410007,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 81,
+    "name_marca": "IZH",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "2715",
+        "codia": 810001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 98,
+    "name_marca": "JAC MOTORS",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "HFC CAMIONES",
+        "codia": 980007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "MINIBUS",
+        "codia": 980002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "S2",
+        "codia": 980013,
+        "precio_y_anio": [
+          {
+            "price": 12000,
+            "year": 2018
+          },
+          {
+            "price": 12500,
+            "year": 2019
+          },
+          {
+            "price": 13000,
+            "year": 2020
+          },
+          {
+            "price": 13500,
+            "year": 2021
+          },
+          {
+            "price": 14100,
+            "year": 2022
+          },
+          {
+            "price": 14800,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 23,
+    "name_marca": "JAGUAR",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "DAIMLER",
+        "codia": 230003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 18,
+        "name_modelo": "F-PACE",
+        "codia": 230038,
+        "precio_y_anio": [
+          {
+            "price": 62500,
+            "year": 2017
+          },
+          {
+            "price": 65500,
+            "year": 2018
+          },
+          {
+            "price": 69500,
+            "year": 2019
+          },
+          {
+            "price": 73500,
+            "year": 2020
+          },
+          {
+            "price": 77500,
+            "year": 2021
+          },
+          {
+            "price": 82500,
+            "year": 2022
+          },
+          {
+            "price": 88500,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 16,
+        "name_modelo": "F-TYPE",
+        "codia": 230033,
+        "precio_y_anio": [
+          {
+            "price": 124000,
+            "year": 2016
+          },
+          {
+            "price": 129000,
+            "year": 2017
+          },
+          {
+            "price": 134000,
+            "year": 2018
+          },
+          {
+            "price": 139000,
+            "year": 2019
+          },
+          {
+            "price": 144000,
+            "year": 2020
+          },
+          {
+            "price": 151000,
+            "year": 2021
+          },
+          {
+            "price": 158000,
+            "year": 2022
+          },
+          {
+            "price": 168000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 15,
+        "name_modelo": "MK",
+        "codia": 230030,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 68,
+    "name_marca": "JINBEI",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "SY",
+        "codia": 680001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 113,
+    "name_marca": "JMC",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "N 601",
+        "codia": 1130002,
+        "precio_y_anio": [
+          {
+            "price": 20863,
+            "year": 2014
+          },
+          {
+            "price": 21503,
+            "year": 2015
+          },
+          {
+            "price": 22174,
+            "year": 2016
+          },
+          {
+            "price": 22856,
+            "year": 2017
+          },
+          {
+            "price": 24296,
+            "year": 2018
+          },
+          {
+            "price": 25047,
+            "year": 2019
+          },
+          {
+            "price": 25822,
+            "year": 2020
+          },
+          {
+            "price": 26622,
+            "year": 2021
+          },
+          {
+            "price": 27440,
+            "year": 2022
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "N900",
+        "codia": 1130001,
+        "precio_y_anio": [
+          {
+            "price": 23773,
+            "year": 2014
+          },
+          {
+            "price": 24512,
+            "year": 2015
+          },
+          {
+            "price": 25268,
+            "year": 2016
+          },
+          {
+            "price": 26050,
+            "year": 2017
+          },
+          {
+            "price": 26856,
+            "year": 2018
+          },
+          {
+            "price": 27686,
+            "year": 2019
+          },
+          {
+            "price": 28541,
+            "year": 2020
+          },
+          {
+            "price": 29427,
+            "year": 2021
+          },
+          {
+            "price": 30338,
+            "year": 2022
+          },
+          {
+            "price": 31250,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 131,
+    "name_marca": "KAMA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "M3",
+        "codia": 1310003,
+        "precio_y_anio": [
+          {
+            "price": 23000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "X1",
+        "codia": 1310001,
+        "precio_y_anio": [
+          {
+            "price": 16000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 82,
+    "name_marca": "KAMAZ",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "53212",
+        "codia": 820003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "53215",
+        "codia": 820004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "53229",
+        "codia": 820005,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "54112",
+        "codia": 820002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "54115",
+        "codia": 820006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "55111",
+        "codia": 820001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "65115",
+        "codia": 820007,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 83,
+    "name_marca": "KENWORTH",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "T 3000",
+        "codia": 830001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "W 900",
+        "codia": 830003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 24,
+    "name_marca": "KIA",
+    "groups": [
+      {
+        "id_modelo": 8,
+        "name_modelo": "AVELLA",
+        "codia": 240020,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CAPITAL",
+        "codia": 240009,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "BESTA",
+        "codia": 240014,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 74,
+    "name_marca": "KIA CAMION",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "FRONTIER",
+        "codia": 740006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "K",
+        "codia": 740001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 25,
+    "name_marca": "LADA",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "AFALINA",
+        "codia": 250010,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "SAMARA",
+        "codia": 250003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "NIVA",
+        "codia": 250007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "LAIKA",
+        "codia": 250008,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 53,
+    "name_marca": "LANCIA",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "132",
+        "codia": 530009,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "BETA",
+        "codia": 530002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "DEDRA",
+        "codia": 530001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 10,
+        "name_modelo": "FLAMINIA",
+        "codia": 530014,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "K",
+        "codia": 530013,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "DELTA",
+        "codia": 530006,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 84,
+    "name_marca": "LIAZ",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "110050",
+        "codia": 840002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "110471",
+        "codia": 840001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 114,
+    "name_marca": "LIFAN",
+    "groups": [
+      {
+        "id_modelo": 10,
+        "name_modelo": "FAW",
+        "codia": 1140019,
+        "precio_y_anio": [
+          {
+            "price": 12756,
+            "year": 2022
+          },
+          {
+            "price": 13410,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "FOISON",
+        "codia": 1140005,
+        "precio_y_anio": [
+          {
+            "price": 8521,
+            "year": 2017
+          },
+          {
+            "price": 9008,
+            "year": 2018
+          },
+          {
+            "price": 9493,
+            "year": 2019
+          },
+          {
+            "price": 9993,
+            "year": 2020
+          },
+          {
+            "price": 10479,
+            "year": 2021
+          },
+          {
+            "price": 11131,
+            "year": 2022
+          },
+          {
+            "price": 11784,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "JETOUR",
+        "codia": 1140015,
+        "precio_y_anio": [
+          {
+            "price": 19755,
+            "year": 2021
+          },
+          {
+            "price": 20727,
+            "year": 2022
+          },
+          {
+            "price": 21699,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 8,
+        "name_modelo": "KYC",
+        "codia": 1140013,
+        "precio_y_anio": [
+          {
+            "price": 12922,
+            "year": 2019
+          },
+          {
+            "price": 13729,
+            "year": 2020
+          },
+          {
+            "price": 14547,
+            "year": 2021
+          },
+          {
+            "price": 15354,
+            "year": 2022
+          },
+          {
+            "price": 16173,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 109,
+    "name_marca": "LINCOLN",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "NAVIGATOR",
+        "codia": 1090002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "TOWN CAR",
+        "codia": 1090001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 111,
+    "name_marca": "MACK",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "GRANITE",
+        "codia": 1110001,
+        "precio_y_anio": [
+          {
+            "price": 35217,
+            "year": 2010
+          },
+          {
+            "price": 36521,
+            "year": 2011
+          },
+          {
+            "price": 37826,
+            "year": 2012
+          },
+          {
+            "price": 39783,
+            "year": 2013
+          },
+          {
+            "price": 41739,
+            "year": 2014
+          },
+          {
+            "price": 43696,
+            "year": 2015
+          },
+          {
+            "price": 45652,
+            "year": 2016
+          },
+          {
+            "price": 47609,
+            "year": 2017
+          },
+          {
+            "price": 50217,
+            "year": 2018
+          },
+          {
+            "price": 52826,
+            "year": 2019
+          },
+          {
+            "price": 55435,
+            "year": 2020
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 67,
+    "name_marca": "MAESTRO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "MAESTRO",
+        "codia": 670001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 55,
+    "name_marca": "MAHINDRA",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "PICK UP",
+        "codia": 550002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CJ",
+        "codia": 550001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 102,
+    "name_marca": "MASERATI",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "3200 GT",
+        "codia": 1020001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "420",
+        "codia": 1020011,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "COUPE",
+        "codia": 1020003,
+        "precio_y_anio": [
+          {
+            "price": 72500,
+            "year": 2005
+          }
+        ]
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "GHIBLI",
+        "codia": 1020013,
+        "precio_y_anio": [
+          {
+            "price": 192000,
+            "year": 2018
+          },
+          {
+            "price": 200000,
+            "year": 2019
+          },
+          {
+            "price": 208000,
+            "year": 2020
+          },
+          {
+            "price": 218000,
+            "year": 2021
+          },
+          {
+            "price": 228000,
+            "year": 2022
+          },
+          {
+            "price": 238000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "GRANSPORT",
+        "codia": 1020005,
+        "precio_y_anio": [
+          {
+            "price": 97500,
+            "year": 2006
+          },
+          {
+            "price": 99500,
+            "year": 2007
+          }
+        ]
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "GRANTURISMO",
+        "codia": 1020010,
+        "precio_y_anio": [
+          {
+            "price": 132000,
+            "year": 2008
+          },
+          {
+            "price": 133000,
+            "year": 2009
+          },
+          {
+            "price": 134000,
+            "year": 2010
+          },
+          {
+            "price": 135000,
+            "year": 2011
+          },
+          {
+            "price": 136000,
+            "year": 2012
+          },
+          {
+            "price": 137000,
+            "year": 2013
+          },
+          {
+            "price": 138000,
+            "year": 2014
+          }
+        ]
+      },
+      {
+        "id_modelo": 8,
+        "name_modelo": "GT SPORT",
+        "codia": 1020012,
+        "precio_y_anio": [
+          {
+            "price": 358000,
+            "year": 2018
+          },
+          {
+            "price": 373000,
+            "year": 2019
+          },
+          {
+            "price": 388000,
+            "year": 2020
+          },
+          {
+            "price": 403000,
+            "year": 2021
+          },
+          {
+            "price": 418000,
+            "year": 2022
+          },
+          {
+            "price": 438000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 10,
+        "name_modelo": "LEVANTE",
+        "codia": 1020015,
+        "precio_y_anio": [
+          {
+            "price": 184000,
+            "year": 2017
+          },
+          {
+            "price": 190000,
+            "year": 2018
+          },
+          {
+            "price": 197000,
+            "year": 2019
+          },
+          {
+            "price": 204000,
+            "year": 2020
+          },
+          {
+            "price": 212000,
+            "year": 2021
+          },
+          {
+            "price": 222000,
+            "year": 2022
+          },
+          {
+            "price": 232000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 26,
+    "name_marca": "MAZDA",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "323",
+        "codia": 260052,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "121",
+        "codia": 260001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 90,
+    "name_marca": "MAZDA CAMION",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "T 4000",
+        "codia": 900001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 128,
+    "name_marca": "MCLAREN",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "570",
+        "codia": 1280001,
+        "precio_y_anio": [
+          {
+            "price": 740000,
+            "year": 2020
+          },
+          {
+            "price": 760000,
+            "year": 2021
+          },
+          {
+            "price": 780000,
+            "year": 2022
+          },
+          {
+            "price": 800000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "600",
+        "codia": 1280002,
+        "precio_y_anio": [
+          {
+            "price": 770000,
+            "year": 2020
+          },
+          {
+            "price": 790000,
+            "year": 2021
+          },
+          {
+            "price": 810000,
+            "year": 2022
+          },
+          {
+            "price": 830000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "720",
+        "codia": 1280003,
+        "precio_y_anio": [
+          {
+            "price": 810000,
+            "year": 2020
+          },
+          {
+            "price": 830000,
+            "year": 2021
+          },
+          {
+            "price": 850000,
+            "year": 2022
+          },
+          {
+            "price": 870000,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "GT",
+        "codia": 1280004,
+        "precio_y_anio": [
+          {
+            "price": 790000,
+            "year": 2020
+          },
+          {
+            "price": 810000,
+            "year": 2021
+          },
+          {
+            "price": 830000,
+            "year": 2022
+          },
+          {
+            "price": 850000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 28,
+    "name_marca": "MERCEDES BENZ",
+    "groups": [
+      {
+        "id_modelo": 24,
+        "name_modelo": "170",
+        "codia": 280189,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "190",
+        "codia": 280001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "200",
+        "codia": 280160,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 75,
+    "name_marca": "MERCEDES BENZ C",
+    "groups": [
+      {
+        "id_modelo": 71,
+        "name_modelo": "ACCELO",
+        "codia": 750164,
+        "precio_y_anio": [
+          {
+            "price": 42815,
+            "year": 2016
+          },
+          {
+            "price": 44144,
+            "year": 2017
+          },
+          {
+            "price": 45510,
+            "year": 2018
+          },
+          {
+            "price": 46920,
+            "year": 2019
+          },
+          {
+            "price": 48371,
+            "year": 2020
+          },
+          {
+            "price": 49866,
+            "year": 2021
+          },
+          {
+            "price": 51404,
+            "year": 2022
+          },
+          {
+            "price": 52945,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 69,
+        "name_modelo": "ACTROS",
+        "codia": 750159,
+        "precio_y_anio": [
+          {
+            "price": 86129,
+            "year": 2013
+          },
+          {
+            "price": 88793,
+            "year": 2014
+          },
+          {
+            "price": 91543,
+            "year": 2015
+          },
+          {
+            "price": 94373,
+            "year": 2016
+          },
+          {
+            "price": 97290,
+            "year": 2017
+          },
+          {
+            "price": 100299,
+            "year": 2018
+          },
+          {
+            "price": 103399,
+            "year": 2019
+          },
+          {
+            "price": 106599,
+            "year": 2020
+          },
+          {
+            "price": 109896,
+            "year": 2021
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 27,
+    "name_marca": "MERCURY",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "CAPRI",
+        "codia": 270002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "COUGAR",
+        "codia": 270004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "LINX",
+        "codia": 270003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "MARQUISE",
+        "codia": 270006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 7,
+        "name_modelo": "SABLE",
+        "codia": 270009,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "TOPAZ",
+        "codia": 270007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "VILLAGER",
+        "codia": 270008,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 62,
+    "name_marca": "METRO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "METRO",
+        "codia": 620001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 106,
+    "name_marca": "MINI COOPER",
+    "groups": [
+      {
+        "id_modelo": 5,
+        "name_modelo": "CABRIO",
+        "codia": 1060020,
+        "precio_y_anio": [
+          {
+            "price": 33000,
+            "year": 2011
+          },
+          {
+            "price": 34000,
+            "year": 2012
+          },
+          {
+            "price": 35000,
+            "year": 2013
+          },
+          {
+            "price": 36200,
+            "year": 2014
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CLUBMAN",
+        "codia": 1060039,
+        "precio_y_anio": [
+          {
+            "price": 28000,
+            "year": 2016
+          },
+          {
+            "price": 29500,
+            "year": 2017
+          },
+          {
+            "price": 31000,
+            "year": 2018
+          },
+          {
+            "price": 33000,
+            "year": 2019
+          },
+          {
+            "price": 35000,
+            "year": 2020
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "COUNTRYMAN",
+        "codia": 1060052,
+        "precio_y_anio": [
+          {
+            "price": 51000,
+            "year": 2021
+          },
+          {
+            "price": 55000,
+            "year": 2022
+          },
+          {
+            "price": 59000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 29,
+    "name_marca": "MITSUBISHI",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "CELESTE",
+        "codia": 290041,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "COLT",
+        "codia": 290080,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "3000",
+        "codia": 290021,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 91,
+    "name_marca": "MITSUBISHI CAM.",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "SANSUNG",
+        "codia": 910004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CANTER",
+        "codia": 910003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 77,
+    "name_marca": "NAKAI (CHANGAN)",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "DOMINIUM",
+        "codia": 770003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "SC 1010",
+        "codia": 770001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "SC 1011",
+        "codia": 770004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 30,
+    "name_marca": "NISSAN",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "DATSUN",
+        "codia": 300037,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "BLUEBIRD",
+        "codia": 300003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "ALTIMA",
+        "codia": 300060,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "AD",
+        "codia": 300009,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 92,
+    "name_marca": "NISSAN CAMION",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "ECO",
+        "codia": 920005,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "U",
+        "codia": 920007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "CMF",
+        "codia": 920004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CPB",
+        "codia": 920003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CPC",
+        "codia": 920002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 31,
+    "name_marca": "OPEL",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "CORSA",
+        "codia": 310025,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CALIBRA",
+        "codia": 310028,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "ASTRA",
+        "codia": 310012,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 32,
+    "name_marca": "PEUGEOT",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "106",
+        "codia": 320317,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 94,
+    "name_marca": "PIAGGIO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "PORTER",
+        "codia": 940002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 105,
+    "name_marca": "PLYMOUTH",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "PLYMOUTH",
+        "codia": 1050001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 33,
+    "name_marca": "POLONEZ",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "1600 GLE",
+        "codia": 330001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "DINO",
+        "codia": 330008,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "GLD",
+        "codia": 330002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 5,
+        "name_modelo": "TRUCK",
+        "codia": 330005,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "PICK-UP",
+        "codia": 330006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "CARO",
+        "codia": 330007,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 34,
+    "name_marca": "PONTIAC",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "BONNEVILLE",
+        "codia": 340004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "FIREBIRD",
+        "codia": 340002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "SUNBIRD",
+        "codia": 340001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "TRANSPORT",
+        "codia": 340003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 35,
+    "name_marca": "PORSCHE",
+    "groups": [
+      {
+        "id_modelo": 12,
+        "name_modelo": "718",
+        "codia": 350082,
+        "precio_y_anio": [
+          {
+            "price": 179500,
+            "year": 2017
+          },
+          {
+            "price": 183500,
+            "year": 2018
+          },
+          {
+            "price": 188000,
+            "year": 2019
+          },
+          {
+            "price": 193000,
+            "year": 2020
+          },
+          {
+            "price": 198000,
+            "year": 2021
+          },
+          {
+            "price": 203000,
+            "year": 2022
+          },
+          {
+            "price": 209000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 48,
+    "name_marca": "PROTON",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "416",
+        "codia": 480004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "420",
+        "codia": 480003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "WIRA",
+        "codia": 480001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 65,
+    "name_marca": "RANQUEL",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "CAMION",
+        "codia": 650003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "PICK-UP",
+        "codia": 650001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 56,
+    "name_marca": "RASTROJERO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "RASTROJERO",
+        "codia": 560012,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 36,
+    "name_marca": "RENAULT",
+    "groups": [
+      {
+        "id_modelo": 52,
+        "name_modelo": "ALASKAN",
+        "codia": 360847,
+        "precio_y_anio": [
+          {
+            "price": 17200,
+            "year": 2020
+          },
+          {
+            "price": 18200,
+            "year": 2021
+          },
+          {
+            "price": 19500,
+            "year": 2022
+          },
+          {
+            "price": 21500,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 70,
+    "name_marca": "RENAULT CAMION",
+    "groups": [
+      {
+        "id_modelo": 11,
+        "name_modelo": "C",
+        "codia": 700081,
+        "precio_y_anio": [
+          {
+            "price": 46498,
+            "year": 2014
+          },
+          {
+            "price": 47443,
+            "year": 2015
+          },
+          {
+            "price": 48389,
+            "year": 2016
+          }
+        ]
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "CBH",
+        "codia": 700010,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 10,
+        "name_modelo": "D",
+        "codia": 700079,
+        "precio_y_anio": [
+          {
+            "price": 43604,
+            "year": 2014
+          },
+          {
+            "price": 44387,
+            "year": 2015
+          },
+          {
+            "price": 44830,
+            "year": 2016
+          }
+        ]
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "KERAX",
+        "codia": 700042,
+        "precio_y_anio": [
+          {
+            "price": 44874,
+            "year": 2005
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 107,
+    "name_marca": "ROLLS ROYCE",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "PHANTON",
+        "codia": 1070001,
+        "precio_y_anio": [
+          {
+            "price": 144000,
+            "year": 2007
+          },
+          {
+            "price": 145000,
+            "year": 2008
+          },
+          {
+            "price": 146000,
+            "year": 2009
+          },
+          {
+            "price": 147000,
+            "year": 2010
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 37,
+    "name_marca": "ROVER-LAND ROV.",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "114",
+        "codia": 370018,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "216",
+        "codia": 370003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "214",
+        "codia": 370031,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 38,
+    "name_marca": "SAAB",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "900",
+        "codia": 380012,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 103,
+    "name_marca": "SANTANA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "SAMURAI",
+        "codia": 1030001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "VITARA",
+        "codia": 1030004,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 95,
+    "name_marca": "SANXING",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "D/CAB",
+        "codia": 950001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "S/CAB",
+        "codia": 950002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 50,
+    "name_marca": "SCANIA",
+    "groups": [
+      {
+        "id_modelo": 22,
+        "name_modelo": "G",
+        "codia": 500140,
+        "precio_y_anio": [
+          {
+            "price": 86911,
+            "year": 2013
+          },
+          {
+            "price": 89599,
+            "year": 2014
+          },
+          {
+            "price": 92368,
+            "year": 2015
+          },
+          {
+            "price": 95229,
+            "year": 2016
+          },
+          {
+            "price": 98176,
+            "year": 2017
+          },
+          {
+            "price": 101209,
+            "year": 2018
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 39,
+    "name_marca": "SEAT",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "ALHAMBRA",
+        "codia": 390053,
+        "precio_y_anio": [
+          {
+            "price": 5015,
+            "year": 2005
+          },
+          {
+            "price": 5089,
+            "year": 2006
+          }
+        ]
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "ALTEA",
+        "codia": 390109,
+        "precio_y_anio": [
+          {
+            "price": 5282,
+            "year": 2007
+          },
+          {
+            "price": 5370,
+            "year": 2008
+          },
+          {
+            "price": 5469,
+            "year": 2009
+          },
+          {
+            "price": 5557,
+            "year": 2010
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "CORDOBA",
+        "codia": 390009,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 126,
+    "name_marca": "SERO ELECTRIC",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "CARGO",
+        "codia": 1260002,
+        "precio_y_anio": [
+          {
+            "price": 7500,
+            "year": 2019
+          },
+          {
+            "price": 8000,
+            "year": 2020
+          },
+          {
+            "price": 8500,
+            "year": 2021
+          },
+          {
+            "price": 9000,
+            "year": 2022
+          },
+          {
+            "price": 9500,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "SEDAN",
+        "codia": 1260001,
+        "precio_y_anio": [
+          {
+            "price": 7900,
+            "year": 2019
+          },
+          {
+            "price": 8400,
+            "year": 2020
+          },
+          {
+            "price": 8900,
+            "year": 2021
+          },
+          {
+            "price": 9400,
+            "year": 2022
+          },
+          {
+            "price": 9900,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 120,
+    "name_marca": "SHINERAY",
+    "groups": [
+      {
+        "id_modelo": 5,
+        "name_modelo": "SWM",
+        "codia": 1200011,
+        "precio_y_anio": [
+          {
+            "price": 23700,
+            "year": 2020
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "T 30",
+        "codia": 1200001,
+        "precio_y_anio": [
+          {
+            "price": 14100,
+            "year": 2018
+          },
+          {
+            "price": 14600,
+            "year": 2019
+          },
+          {
+            "price": 15100,
+            "year": 2020
+          },
+          {
+            "price": 15700,
+            "year": 2021
+          },
+          {
+            "price": 16400,
+            "year": 2022
+          },
+          {
+            "price": 17200,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "T 32",
+        "codia": 1200002,
+        "precio_y_anio": [
+          {
+            "price": 14600,
+            "year": 2018
+          },
+          {
+            "price": 15100,
+            "year": 2019
+          },
+          {
+            "price": 15600,
+            "year": 2020
+          },
+          {
+            "price": 16200,
+            "year": 2021
+          },
+          {
+            "price": 17000,
+            "year": 2022
+          },
+          {
+            "price": 17800,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "X 30",
+        "codia": 1200003,
+        "precio_y_anio": [
+          {
+            "price": 14000,
+            "year": 2018
+          },
+          {
+            "price": 14500,
+            "year": 2019
+          },
+          {
+            "price": 15100,
+            "year": 2020
+          },
+          {
+            "price": 15700,
+            "year": 2021
+          },
+          {
+            "price": 16330,
+            "year": 2022
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 104,
+    "name_marca": "SIAM DI TELLA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "SIAM",
+        "codia": 1040001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 40,
+    "name_marca": "SKODA",
+    "groups": [
+      {
+        "id_modelo": 3,
+        "name_modelo": "RURAL",
+        "codia": 400007,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "FELICIA",
+        "codia": 400001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 110,
+    "name_marca": "SMART",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "FORFOUR",
+        "codia": 1100009,
+        "precio_y_anio": [
+          {
+            "price": 13500,
+            "year": 2016
+          },
+          {
+            "price": 14000,
+            "year": 2017
+          },
+          {
+            "price": 14500,
+            "year": 2018
+          },
+          {
+            "price": 15000,
+            "year": 2019
+          }
+        ]
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "FORTWO",
+        "codia": 1100002,
+        "precio_y_anio": [
+          {
+            "price": 10100,
+            "year": 2010
+          },
+          {
+            "price": 10300,
+            "year": 2011
+          },
+          {
+            "price": 10500,
+            "year": 2012
+          },
+          {
+            "price": 10800,
+            "year": 2013
+          },
+          {
+            "price": 11200,
+            "year": 2014
+          },
+          {
+            "price": 11600,
+            "year": 2015
+          },
+          {
+            "price": 12000,
+            "year": 2016
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 127,
+    "name_marca": "SOUEAST",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "DX3",
+        "codia": 1270002,
+        "precio_y_anio": [
+          {
+            "price": 18800,
+            "year": 2020
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 101,
+    "name_marca": "SPACE",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "GHT",
+        "codia": 1010001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 96,
+    "name_marca": "STAR (3-STAR)",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "SXZ 1047",
+        "codia": 960001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "SXZ 3043",
+        "codia": 960003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 42,
+    "name_marca": "SUBARU",
+    "groups": [
+      {
+        "id_modelo": 5,
+        "name_modelo": "1300",
+        "codia": 420023,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 9,
+        "name_modelo": "1600",
+        "codia": 420097,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 11,
+        "name_modelo": "600",
+        "codia": 420117,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 6,
+        "name_modelo": "FORESTER",
+        "codia": 420034,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 43,
+    "name_marca": "SUZUKI",
+    "groups": [
+      {
+        "id_modelo": 6,
+        "name_modelo": "ALTO",
+        "codia": 430027,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "BALENO",
+        "codia": 430022,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 57,
+    "name_marca": "TATA",
+    "groups": [
+      {
+        "id_modelo": 4,
+        "name_modelo": "SAFARI",
+        "codia": 570012,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "SUMO",
+        "codia": 570002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "TELCOLINE",
+        "codia": 570003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 76,
+    "name_marca": "TATA CAMION",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "609",
+        "codia": 760001,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "709",
+        "codia": 760004,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "608",
+        "codia": 760002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 44,
+    "name_marca": "TAVRIA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "TAVRIA",
+        "codia": 440002,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 45,
+    "name_marca": "TOYOTA",
+    "groups": [
+      {
+        "id_modelo": 29,
+        "name_modelo": "86",
+        "codia": 450213,
+        "precio_y_anio": [
+          {
+            "price": 26000,
+            "year": 2012
+          },
+          {
+            "price": 27000,
+            "year": 2013
+          },
+          {
+            "price": 28000,
+            "year": 2014
+          },
+          {
+            "price": 29000,
+            "year": 2015
+          },
+          {
+            "price": 30000,
+            "year": 2016
+          },
+          {
+            "price": 31500,
+            "year": 2017
+          },
+          {
+            "price": 33000,
+            "year": 2018
+          },
+          {
+            "price": 35000,
+            "year": 2019
+          },
+          {
+            "price": 37000,
+            "year": 2020
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "ACE",
+        "codia": 450026,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "4RUNER",
+        "codia": 450121,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 85,
+    "name_marca": "UAZ",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "JEEP",
+        "codia": 850002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "FURGON",
+        "codia": 850001,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 46,
+    "name_marca": "VOLKSWAGEN",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "1300",
+        "codia": 460235,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 39,
+        "name_modelo": "AMAROK",
+        "codia": 460862,
+        "precio_y_anio": [
+          {
+            "price": 18300,
+            "year": 2016
+          },
+          {
+            "price": 19000,
+            "year": 2017
+          },
+          {
+            "price": 19700,
+            "year": 2018
+          },
+          {
+            "price": 20500,
+            "year": 2019
+          },
+          {
+            "price": 21500,
+            "year": 2020
+          },
+          {
+            "price": 22600,
+            "year": 2021
+          },
+          {
+            "price": 23800,
+            "year": 2022
+          },
+          {
+            "price": 25000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 66,
+    "name_marca": "VOLKSWAGEN CAM.",
+    "groups": [
+      {
+        "id_modelo": 20,
+        "name_modelo": "10.150",
+        "codia": 660047,
+        "precio_y_anio": [
+          {
+            "price": 31113,
+            "year": 2009
+          },
+          {
+            "price": 32080,
+            "year": 2010
+          },
+          {
+            "price": 33069,
+            "year": 2011
+          },
+          {
+            "price": 34091,
+            "year": 2012
+          },
+          {
+            "price": 35150,
+            "year": 2013
+          },
+          {
+            "price": 36232,
+            "year": 2014
+          },
+          {
+            "price": 37358,
+            "year": 2015
+          },
+          {
+            "price": 38508,
+            "year": 2016
+          }
+        ]
+      },
+      {
+        "id_modelo": 37,
+        "name_modelo": "11.180 DELIVERY",
+        "codia": 660093,
+        "precio_y_anio": [
+          {
+            "price": 43732,
+            "year": 2020
+          },
+          {
+            "price": 45079,
+            "year": 2021
+          },
+          {
+            "price": 46477,
+            "year": 2022
+          },
+          {
+            "price": 47875,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 8,
+        "name_modelo": "13.180",
+        "codia": 660059,
+        "precio_y_anio": [
+          {
+            "price": 32405,
+            "year": 2009
+          },
+          {
+            "price": 33409,
+            "year": 2010
+          },
+          {
+            "price": 34442,
+            "year": 2011
+          },
+          {
+            "price": 35506,
+            "year": 2012
+          },
+          {
+            "price": 36601,
+            "year": 2013
+          },
+          {
+            "price": 37734,
+            "year": 2014
+          },
+          {
+            "price": 38902,
+            "year": 2015
+          },
+          {
+            "price": 40108,
+            "year": 2016
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 130,
+    "name_marca": "VOLT",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "E 1",
+        "codia": 1300003,
+        "precio_y_anio": [
+          {
+            "price": 9700,
+            "year": 2022
+          },
+          {
+            "price": 10200,
+            "year": 2023
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "W 1",
+        "codia": 1300002,
+        "precio_y_anio": [
+          {
+            "price": 9000,
+            "year": 2021
+          },
+          {
+            "price": 9500,
+            "year": 2022
+          },
+          {
+            "price": 10000,
+            "year": 2023
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id_marca": 47,
+    "name_marca": "VOLVO",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "240",
+        "codia": 470064,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "242",
+        "codia": 470029,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "244",
+        "codia": 470018,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 4,
+        "name_modelo": "245",
+        "codia": 470030,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 88,
+    "name_marca": "VOLVO CAMION",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "EDC",
+        "codia": 880006,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 3,
+        "name_modelo": "FH",
+        "codia": 880020,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 100,
+    "name_marca": "WULING MOTORS",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "LZW",
+        "codia": 1000003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 97,
+    "name_marca": "YANTAI",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "METRO",
+        "codia": 970002,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "YTQ",
+        "codia": 970003,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 86,
+    "name_marca": "YUEJIN",
+    "groups": [
+      {
+        "id_modelo": 2,
+        "name_modelo": "MINIBUS",
+        "codia": 860003,
+        "precio_y_anio": []
+      },
+      {
+        "id_modelo": 1,
+        "name_modelo": "NJ",
+        "codia": 860009,
+        "precio_y_anio": []
+      }
+    ]
+  },
+  {
+    "id_marca": 125,
+    "name_marca": "ZANELLA",
+    "groups": [
+      {
+        "id_modelo": 1,
+        "name_modelo": "FORCE TRUCK",
+        "codia": 1250004,
+        "precio_y_anio": [
+          {
+            "price": 11300,
+            "year": 2019
+          },
+          {
+            "price": 11700,
+            "year": 2020
+          }
+        ]
+      },
+      {
+        "id_modelo": 2,
+        "name_modelo": "Z-TRUCK",
+        "codia": 1250006,
+        "precio_y_anio": [
+          {
+            "price": 13700,
+            "year": 2021
+          },
+          {
+            "price": 14300,
+            "year": 2022
+          },
+          {
+            "price": 14800,
+            "year": 2023
+          }
+        ]
+      }
+    ]
   }
 ]
