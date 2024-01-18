@@ -21,9 +21,10 @@
         }
     
         label {
-            display: block;
-            font-size: 16px;
-            margin-bottom: 5px;
+            font-weight: bold; /* Texto en negrita */
+            font-size: 1.2em; /* Tamaño de la fuente */
+            margin-top: 10px; /* Ajusta el margen superior */
+            display: block; 
         }
     
         select {
@@ -32,31 +33,64 @@
             width: 100%;
             box-sizing: border-box;
         }
+        
+        .btn {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .btn button {
+            background-color: #FFA500; /* Naranja fuerte */
+            color: #ffffff; /* Blanco */
+            padding: 15px 30px; /* Ajusta el tamaño del botón */
+            font-size: 1.2em; /* Tamaño de la fuente */
+            border: 2px solid #FFA500; /* Borde naranja fuerte */
+            border-radius: 8px; /* Bordes redondeados */
+            cursor: pointer;
+            transition: background-color 0.3s, color 0.3s; /* Agrega transición de color y fondo */
+        }
+
+        .btn button:hover {
+            background-color: #ffffff; /* Blanco al pasar el mouse */
+            color: #FFA500; /* Naranja fuerte al pasar el mouse */
+        }
+
+        .btn button a {
+            color: #000000; /* Negro */
+            font-weight: bold; /* Texto en negrita */
+            text-decoration: none; /* Quitar subrayado del enlace */
+        }
     </style>
 </head>
 <body>
 
-<h1>Selector de Autos</h1>
 
-<label for="marcaSelect">Marca:</label>
+
+<h1>Cotizador Usados</h1>
+
+<b><label for="marcaSelect">Marca:</label></b>
 <select id="marcaSelect" onchange="updateModelos()">
     <option value="" disabled selected>Selecciona una marca</option>
 </select>
 
-<label for="modeloSelect">Modelo:</label>
+<b><label for="modeloSelect">Modelo:</label></b>
 <select id="modeloSelect" onchange="updateAnios()">
     <option value="" disabled selected>Selecciona un modelo</option>
 </select>
 
-<label for="anioSelect">Año:</label>
+<b><label for="anioSelect">Año:</label></b>
 <select id="anioSelect" onchange="updatePrecios()">
     <option value="" disabled selected>Selecciona un año</option>
 </select>
 
-<label for="precioSelect">Precio:</label>
+<b><label for="precioSelect">Precio:</label></b>
 <select id="precioSelect">
     <option value="" disabled selected>Selecciona un precio</option>
 </select>
+
+<div class="btn">
+    <button><a href="https://automotor.odoo.com/" target="_blank">Regresar a Autoroma</a></button>
+</div>
 
 <script>
     let data;
